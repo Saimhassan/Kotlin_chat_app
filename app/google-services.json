@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955880018553",
+    "firebase_url": "https://fiverrmessage.firebaseio.com",
+    "project_id": "fiverrmessage",
+    "storage_bucket": "fiverrmessage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955880018553:android:30ec6591663b44e12cbaa8",
+        "android_client_info": {
+          "package_name": "com.saimhassan.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955880018553-g3imd4rv5osfim1ifr3t99au8so4b05a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU5KPISyvbQXy-g6bQeDe-W0EC4GcWdNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955880018553-g3imd4rv5osfim1ifr3t99au8so4b05a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
